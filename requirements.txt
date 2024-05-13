@@ -1,0 +1,8 @@
+#python 3.12.3
+wheel
+pandas
+scikit-learn==1.2.2
+tensorflow==2.15.0
+flask
+numpy
+joblib
